@@ -12,8 +12,8 @@ public class Main {
             System.out.print(i+" ");
         }
 
-        //Задание 2
         System.out.println();
+        //Задание 2
         System.out.println("Lesson 2");
 
         int friday = 2;
